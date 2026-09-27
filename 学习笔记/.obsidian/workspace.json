@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "8260b8903d49f087",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b42aaf344ba7118",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45e23ef88894249",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Linux常用功能.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "6093ef287b9459fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Linux常用功能.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux常用功能"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c47bad171722eb51",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdbad612c7a0db77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc5c3d9ddf9b042",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "49a66f7f7748dfff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4c523878c30b8136",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "7487c0c672f05b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "503da96edb8a5a42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804e7fc776731d86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/网络通信.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "09b200c3b900bbfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/网络通信.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "7751491b670f1f4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c9d90bd501f3e642",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "68133d22824621c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/网络通信.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "03be93cdab806e33",
+            "type": "leaf",
+            "state": {
+              "type": "code-space-outline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "code-space-outline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "code-space:打开 Code Space 主面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6093ef287b9459fe",
+  "lastOpenFiles": [
+    "Linux/Linux常用功能.md",
+    "通用工具/VSCODE/常用快捷键.md",
+    "通用工具/VSCODE",
+    "C++/基础语法/基础.md",
+    "C++/样例/cmake_demo.cmake",
+    "C++/样例/Timer.hpp",
+    "C++/样例/type_name.hpp",
+    "Linux/_resources/基础/60d2d17102a5c86e27169af0909a8487_MD5.jpg",
+    "Pasted image 20260924173234.png",
+    "_resources/基础/326421af0e072d980d9994ad19288992_MD5.jpg",
+    "_resources/基础",
+    "_resources",
+    "Pasted image 20260924173126.png",
+    "Pasted image 20260924173054.png",
+    "Linux/_resources/基础/326421af0e072d980d9994ad19288992_MD5.jpg.md",
+    "Linux/_resources/基础",
+    "C++/_resourses/网络模型.jpeg",
+    "C++/_resourses/Socket通信.png",
+    "C++/CPP知识总览.md",
+    "通用工具/_resourses",
+    "Pasted image 20260924172747.png",
+    "Linux/_resources/基础/326421af0e072d980d9994ad19288992_MD5.jpg",
+    "Linux/_resources",
+    "Linux/resourses",
+    "Pasted image 20260924172603.png",
+    "Linux/通用.md",
+    "Linux/网络通信.md",
+    "Linux/库文件.md",
+    "C++/基础语法/模板.md",
+    "C++/模块/面经.md",
+    "C++/模块/问题实例.md",
+    "C++/模块/日志/日志缓冲区Buffer.md",
+    "C++/模块/日志/formatter.md",
+    "C++/模块/日志/spdlog.md",
+    "C++/模块/日志/pans.md",
+    "C++/CPP知识总览2.md",
+    "C++/模块/CMake.md",
+    "通用工具/正则表达式.md",
+    "C++/样例/未命名.md",
+    "通用工具/卡尔曼滤波/卡尔曼滤波.md",
+    "C++/容器.md",
+    "C++/智能指针.md",
+    "C++/模块/技巧.md",
+    "C++/左值与右值.md",
+    "C++/bind与function.md",
+    "C++/模块/通用.md",
+    "未命名.canvas"
+  ]
+}
