@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux常用功能.md",
+                "file": "通用工具/nvim/lazyvim 快捷键.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux常用功能"
+              "title": "lazyvim 快捷键"
             }
           }
         ],
@@ -218,6 +218,9 @@
   },
   "active": "6093ef287b9459fe",
   "lastOpenFiles": [
+    "学术英语/写作规范.md",
+    "通用工具/nvim/lazyvim 快捷键.md",
+    "通用工具/nvim",
     "Linux/Linux常用功能.md",
     "通用工具/VSCODE/常用快捷键.md",
     "通用工具/VSCODE",
@@ -241,7 +244,6 @@
     "Pasted image 20260924172747.png",
     "Linux/_resources/基础/326421af0e072d980d9994ad19288992_MD5.jpg",
     "Linux/_resources",
-    "Linux/resourses",
     "Pasted image 20260924172603.png",
     "Linux/通用.md",
     "Linux/网络通信.md",
@@ -262,8 +264,6 @@
     "C++/智能指针.md",
     "C++/模块/技巧.md",
     "C++/左值与右值.md",
-    "C++/bind与function.md",
-    "C++/模块/通用.md",
     "未命名.canvas"
   ]
 }

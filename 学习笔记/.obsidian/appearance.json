@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Blue Topaz",
-  "interfaceFontFamily": "Maple Mono NF,Maple Mono NL NF CN",
-  "textFontFamily": "Maple Mono NF,Maple Mono NL NF CN",
-  "monospaceFontFamily": "Maple Mono NF,Maple Mono NL NF CN"
+  "interfaceFontFamily": "Maple Mono Normal",
+  "textFontFamily": "Maple Mono Normal",
+  "monospaceFontFamily": "Maple Mono Normal",
+  "theme": "obsidian"
 }
