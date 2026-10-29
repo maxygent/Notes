@@ -4,16 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "0b42aaf344ba7118",
+        "id": "c37e04d557435e5a",
         "type": "tabs",
+        "dimension": 69.8581560283688,
         "children": [
           {
-            "id": "a45e23ef88894249",
+            "id": "95cab48c6b59852b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "现代控制理论/能控性和能观性判据.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "能控性和能观性判据"
+            }
+          },
+          {
+            "id": "e83c85e41f83e697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "现代控制理论/李雅普诺夫稳定性分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "李雅普诺夫稳定性分析"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "355f076f903c57b4",
+        "type": "tabs",
+        "dimension": 30.141843971631207,
+        "children": [
+          {
+            "id": "012dd213c304e820",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux常用功能.md",
+                "file": "现代控制理论/李雅普诺夫稳定性分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -21,23 +58,8 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
-          },
-          {
-            "id": "6093ef287b9459fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "通用工具/nvim/lazyvim 快捷键.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lazyvim 快捷键"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 235.5
   },
   "right": {
     "id": "7487c0c672f05b35",
@@ -195,9 +217,19 @@
               "icon": "lucide-ghost",
               "title": "code-space-outline"
             }
+          },
+          {
+            "id": "375dbeb2542d778b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -216,54 +248,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6093ef287b9459fe",
+  "active": "e83c85e41f83e697",
   "lastOpenFiles": [
-    "学术英语/写作规范.md",
-    "通用工具/nvim/lazyvim 快捷键.md",
-    "通用工具/nvim",
-    "Linux/Linux常用功能.md",
-    "通用工具/VSCODE/常用快捷键.md",
-    "通用工具/VSCODE",
-    "C++/基础语法/基础.md",
-    "C++/样例/cmake_demo.cmake",
-    "C++/样例/Timer.hpp",
-    "C++/样例/type_name.hpp",
-    "Linux/_resources/基础/60d2d17102a5c86e27169af0909a8487_MD5.jpg",
-    "Pasted image 20260924173234.png",
-    "_resources/基础/326421af0e072d980d9994ad19288992_MD5.jpg",
-    "_resources/基础",
-    "_resources",
-    "Pasted image 20260924173126.png",
-    "Pasted image 20260924173054.png",
-    "Linux/_resources/基础/326421af0e072d980d9994ad19288992_MD5.jpg.md",
-    "Linux/_resources/基础",
-    "C++/_resourses/网络模型.jpeg",
-    "C++/_resourses/Socket通信.png",
-    "C++/CPP知识总览.md",
-    "通用工具/_resourses",
-    "Pasted image 20260924172747.png",
-    "Linux/_resources/基础/326421af0e072d980d9994ad19288992_MD5.jpg",
-    "Linux/_resources",
-    "Pasted image 20260924172603.png",
-    "Linux/通用.md",
-    "Linux/网络通信.md",
+    "Pasted image 20261029203422.png",
+    "现代控制理论/能控性和能观性判据.md",
+    "现代控制理论/李雅普诺夫稳定性分析.md",
+    "现代控制理论/可控性可观性和标准型.md",
+    "现代控制理论/状态空间表达式.md",
+    "现代控制理论/Jordan矩阵补充.md",
+    "现代控制理论/约当矩阵Jordan",
+    "现代控制理论/证明/Gram矩阵能控性能观性证明.md",
+    "现代控制理论/证明/可控标准I型证明.md",
+    "现代控制理论/证明",
+    "现代控制理论/resources/可控可观分解.png",
+    "Pasted image 20261028104058.png",
+    "Pasted image 20261028103027.png",
+    "Pasted image 20261027204605.png",
+    "现代控制理论/resources/可控标准一型例题.png",
+    "Pasted image 20261027200121.png",
+    "Pasted image 20261027195636.png",
+    "Pasted image 20261027193908.png",
+    "Pasted image 20261027193853.png",
+    "Pasted image 20261027191942.png",
+    "现代控制理论/可控标准型.md",
+    "现代控制理论/resources",
+    "C++/踩坑/坑.md",
+    "Linux/IPC(Inter-Process Communication).md",
+    "现代控制理论/状态空间表达式/未命名.md",
+    "现代控制理论/状态空间表达式",
+    "现代控制理论/未命名 1.md",
+    "现代控制理论",
+    "Linux/文件系统.md",
     "Linux/库文件.md",
-    "C++/基础语法/模板.md",
-    "C++/模块/面经.md",
-    "C++/模块/问题实例.md",
-    "C++/模块/日志/日志缓冲区Buffer.md",
-    "C++/模块/日志/formatter.md",
-    "C++/模块/日志/spdlog.md",
-    "C++/模块/日志/pans.md",
-    "C++/CPP知识总览2.md",
-    "C++/模块/CMake.md",
+    "Linux/Linux常用功能.md",
+    "C++/Projects/reaction/重复依赖批处理.md",
+    "C++/基础语法/类型萃取.md",
+    "C++/基础语法/编译期函数.md",
+    "C++/基础语法/基础.md",
+    "C++/基础语法/线程.md",
+    "C++/模板元/print.hpp",
+    "C++/模板元/mprint.hpp",
+    "计算机基础知识/基础数据.md",
+    "C++/Projects/reaction/expression.md",
+    "计算机基础知识",
+    "C++/Projects/reaction/reaction.md",
+    "C++/工具配置/clang-format.md",
     "通用工具/正则表达式.md",
-    "C++/样例/未命名.md",
-    "通用工具/卡尔曼滤波/卡尔曼滤波.md",
-    "C++/容器.md",
-    "C++/智能指针.md",
-    "C++/模块/技巧.md",
-    "C++/左值与右值.md",
+    "未命名.base",
+    "未命名 1.base",
     "未命名.canvas"
   ]
 }
